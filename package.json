@@ -1,0 +1,22 @@
+{
+  "name": "ipl",
+  "version": "1.0.0",
+  "description": "Dataset",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mankal-27/IPL.git"
+  },
+  "author": "Manjunath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mankal-27/IPL/issues"
+  },
+  "homepage": "https://github.com/mankal-27/IPL#readme",
+  "dependencies": {
+    "csvtojson": "^2.0.10"
+  }
+}
